@@ -1,1 +1,2 @@
-Trend Health and Beauty Clinic Cork City Ireland
+Trend Health and Beauty Clinic
+
