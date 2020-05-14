@@ -84,6 +84,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav {
   padding: 18px 0;
   background: #fff;
+  font-weight: 600;
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav {
@@ -389,11 +390,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-counter {
-  height: 500px;
+  height: 400px;
 }
 #fh5co-counter .display-t,
 #fh5co-counter .display-tc {
-  height: 500px;
+  height: 400px;
   display: table;
   width: 100%;
 }
@@ -722,6 +723,11 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-footer {
   padding: 1.5em 0;
   clear: both;
+
+}
+#fh5co-services{
+  background-color:#f8f8f8;
+  padding-top: 5%;
 }
 @media screen and (max-width: 768px) {
   #fh5co-services,
@@ -1000,7 +1006,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-heading {
-  margin-bottom: 5em;
+  margin-bottom: 0px;
 }
 .fh5co-heading.fh5co-heading-sm {
   margin-bottom: 2em;
@@ -1663,7 +1669,8 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .row-pb-md {
-  padding-bottom: 4em !important;
+  padding-bottom: 1em !important;
+  padding-top: 1em;
 }
 
 .row-pb-sm {
