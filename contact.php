@@ -106,7 +106,6 @@
 
 		</div>
 	</nav>
-
 	<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url(images/img_bg_11.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
@@ -122,7 +121,6 @@
 			</div>
 		</div>
 	</header>
-
 	<div id="fh5co-contact">
 		<div class="container">
 			<div class="row">
@@ -137,7 +135,6 @@
 							<li class="clock"><b>Opening Hours</b><br><b>Mond - Tue:</b> 9 am - 7 pm<br> <b>Wed - Fri:</b> 9 am - 8 pm<br><b> Sat - Sun:</b> 10 am - 5 pm</li>
 						</ul>
 					</div>
-
 				</div>
 				<div class="col-md-6 animate-box" id="form">
 					<h3>Book Online</h3>
@@ -202,7 +199,6 @@
 						<li><a href="index.html">Testimonials</a></li>
 					</ul>
 				</div>
-
 				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1">
 					<ul class="fh5co-footer-links">
 						<li><a href="gallery.html">Gallery</a></li>
@@ -210,7 +206,6 @@
 					</ul>
 				</div>
 			</div>
-
 			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
@@ -222,10 +217,6 @@
 							<li><a href="https://www.facebook.com/Trend-Health-and-Beauty-495683657570829/?modal=admin_todo_tour" target="=_blank"><i class="icon-facebook"></i></a></li>
 							<li><a href="https://www.instagram.com/trendhealthandbeautycork/" target="=_blank"><i class="icon-instagram"></i></a></li>
 							<li><a href="https://twitter.com/TrendCork" target="=_blank"><i class="icon-twitter"></i></a></li>
-							<li><a href="https://www.youtube.com/channel/UCqMuqYB_ZN1orlYvlgB7sRw/featured?view_as=subscriber" target="=_blank"><i class="icon-youtube"></i></a></li>
-							<li><a href="https://plus.google.com/u/0/105093073522719213228" target="=_blank"><i class="icon-google"></i></a></li>
-							<li><a href="https://www.linkedin.com/company/trend-health-and-beauty-clinic/" target="=_blank"><i class="icon-linkedin"></i></a></li>
-
 						</ul>
 					</p>
 				</div>
@@ -259,7 +250,5 @@
 
 	<!-- Main -->
 	<script src="js/main.js"></script>
-
-
 	</body>
 </html>

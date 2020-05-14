@@ -719,11 +719,13 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started,
 #fh5co-product,
 #fh5co-about,
-#fh5co-contact,
-#fh5co-footer {
+#fh5co-contact {
   padding: 1.5em 0;
   clear: both;
 
+}
+#fh5co-footer{
+  padding-top: 1%;
 }
 #fh5co-services{
   background-color:#f8f8f8;
@@ -1162,8 +1164,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-footer .fh5co-footer-links li a:hover {
   text-decoration: underline;
 }
-#fh5co-footer .fh5co-widget {
-  margin-bottom: 30px;
+.fh5co-widget, .col-md-push-1{
+  padding-top: 3%;
 }
 @media screen and (max-width: 768px) {
   #fh5co-footer .fh5co-widget {
