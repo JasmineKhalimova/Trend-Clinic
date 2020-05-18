@@ -131,7 +131,7 @@
 						<ul>
 							<li class="address">Located in the same building as Magic Thread<br>Unit 14 Westside Centre<br>Model Farm Road<br>Cork<br> Ireland<br>T12 AC2H</li>
 							<li class="phone"><a href="tel://00353214544697">+ 353 21 4544697</a></li>
-							<li class="email"><a href="mailto:info@trendhealthandbeauty.com">info@trendhealthandbeauty.com</a></li>
+							<li class="email"><a href="mailto:info@trendhealthandbeauty.com">trendhealthandbeauty@gmail.com</a></li>
 							<li class="clock"><b>Opening Hours</b><br><b>Mond - Tue:</b> 9 am - 7 pm<br> <b>Wed - Fri:</b> 9 am - 8 pm<br><b> Sat - Sun:</b> 10 am - 5 pm</li>
 						</ul>
 					</div>

@@ -27,8 +27,21 @@ body {
   overflow: hidden;
   position: absolute;
 }
-
-
+.price_list_title{
+  text-align: center;
+}
+.laser_both{
+  display: inline-block;
+  width: 85%;
+  margin-top: 3%;
+}
+.women_laser_price{
+  float: left;
+  margin-left: 18%;
+}
+.men_laser_price{
+  float: right;
+}
 .offcanvas #page:after {
   -webkit-transition: 2s;
   -o-transition: 2s;
@@ -953,7 +966,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-tabs .fh5co-tab-content-wrap ul li {
   list-style: none;
-  margin-bottom: 20px;
+  margin-bottom: 13px;
   position: relative;
   padding-left: 30px;
 }
@@ -962,7 +975,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   top: 0;
   left: 0;
-  content: '\e116';
+  content: '\e115';
 }
 .fh5co-tabs .fh5co-tab-content-wrap .feed {
   width: 100%;
