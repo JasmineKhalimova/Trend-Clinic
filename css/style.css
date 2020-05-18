@@ -69,7 +69,7 @@ a:hover, a:active, a:focus {
 }
 
 p {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 h1, h2, h3, h4, h5, h6, figure {
@@ -742,7 +742,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-services{
   background-color:#f8f8f8;
-  padding-top: 5%;
+  padding-top: 2%;
 }
 @media screen and (max-width: 768px) {
   #fh5co-services,
@@ -1021,7 +1021,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-heading {
-  margin-bottom: 0px;
+  margin-bottom: 2%;
 }
 .fh5co-heading.fh5co-heading-sm {
   margin-bottom: 2em;
